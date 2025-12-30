@@ -6,7 +6,7 @@ export default function Section() {
       <div className="group relative pb-10">
         <div
           id="namecard"
-          className="z-50 bg-red-700 bg-[url(/noise.png)] bg-blend-darken flex flex-col items-center p-2 pt-6 rounded-lg text-amber-100 group-hover:shadow-2xl group-hover:rotate-3 group-hover:scale-110 shadow-md duration-150"
+          className="z-20 bg-red-700 bg-[url(/noise.png)] bg-blend-darken flex flex-col items-center p-2 pt-6 rounded-lg text-amber-100 group-hover:shadow-2xl group-hover:rotate-3 group-hover:scale-110 shadow-md duration-150"
         >
           <h1 className="font-bold text-4xl tracking-widest">HELLO</h1>
           <p className="text-xl tracking-wide">my name is</p>
@@ -18,7 +18,7 @@ export default function Section() {
           id="portfolios"
           className="flex gap-2 justify-center p-2 absolute z-0 top-1/2 group-hover:top-full -translate-y-full duration-200 opacity-0 group-hover:opacity-100 w-full mt-8 text-amber-100/45 *:hover:text-amber-100"
         >
-          <a href="https://github.com/punkestu" target="_blank" rel="noreferrer">
+          <a href="https://www.instagram.com/b_pangestu03/" target="_blank" rel="noreferrer">
             <svg
               className="w-8 h-8"
               aria-hidden="true"
@@ -36,7 +36,7 @@ export default function Section() {
               />
             </svg>
           </a>
-          <a href="https://www.instagram.com/b_pangestu03/" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/punkestu" target="_blank" rel="noopener noreferrer">
             <svg
               className="w-8 h-8"
               aria-hidden="true"
